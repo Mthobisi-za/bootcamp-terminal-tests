@@ -1,5 +1,5 @@
 "use strict"
-var countAllPaarl = require("../my modules/countAllPaarl")
+var countAllPaarl = require("../my_modules/countAllPaarl")
 var assert = require("assert")
 describe('countAllPaarl', () => {
     it('should Count registration numbers from paarl and return 3', () => {

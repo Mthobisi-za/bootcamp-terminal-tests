@@ -1,5 +1,5 @@
 "use strict"
-var isFromBellville = require("../my modules/isFromBellville");
+var isFromBellville = require("../my_modules/isFromBellville");
 var assert = require("assert");
 describe("isFromBellville",()=>{
     it("should Return True for CY registration.", ()=>{

@@ -1,5 +1,5 @@
 "use strict"
-var fromWhere = require("../my modules/fromWhere");
+var fromWhere = require("../my_modules/fromWhere");
 var assert = require("assert")
 
 describe('fromWhere', () => {

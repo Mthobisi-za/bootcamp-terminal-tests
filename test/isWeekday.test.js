@@ -1,5 +1,5 @@
 "use strict"
-var isWeekday = require("../my modules/isWeekday")
+var isWeekday = require("../my_modules/isWeekday")
 var assert = require("assert")
 
 describe('isWeekday', () => {

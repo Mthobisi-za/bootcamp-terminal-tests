@@ -1,5 +1,5 @@
 "use strict"
-const totalPhoneBill = require('../my modules/totalPhoneBill');
+const totalPhoneBill = require('../my_modules/totalPhoneBill');
 const assert = require("assert")
 describe("totalPhoneBill", ()=>{
     it("should Return R7.45 for all the sms's and call's passed",()=>{

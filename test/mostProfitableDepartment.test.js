@@ -1,5 +1,5 @@
 "use strict"
-var  mostProfitableDepartment = require("../my modules/mostProfitableDepartment");
+var  mostProfitableDepartment = require("../my_modules/mostProfitableDepartment");
 var assert = require("assert")
 var data = [
     {department: 'hardware', sales: 4500, day: 'Monday'},

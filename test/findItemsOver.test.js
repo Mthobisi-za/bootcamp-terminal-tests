@@ -1,5 +1,5 @@
 "use strict"
-var findItemsOver = require("../my modules/findItemsOver")
+var findItemsOver = require("../my_modules/findItemsOver")
 var assert = require("assert")
 
 var itemLists = [

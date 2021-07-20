@@ -1,5 +1,5 @@
 "use strict"
-var countAllFromTown = require("../my modules/countAllFromTown")
+var countAllFromTown = require("../my_modules/countAllFromTown")
 var assert = require("assert")
 describe('countAllFromTown', () => {
     it("Should take a string and return 3", ()=>{

@@ -1,5 +1,5 @@
 "use strict"
-const yearsAgo = require('../my modules/yearsAgo');
+const yearsAgo = require('../my_modules/yearsAgo');
 const assert = require('assert');
 describe('yearsAgo', () => {
     it("Must return the different of 6", ()=>{

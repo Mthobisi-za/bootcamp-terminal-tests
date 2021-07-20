@@ -1,5 +1,5 @@
 "use strict"
-var countRegNumber = require("../my modules/countRegNumber")
+var countRegNumber = require("../my_modules/countRegNumber")
 var assert = require("assert")
 describe("countRegNumber", ()=>{
     it("should Count all the registration numbers and return 3",()=>{

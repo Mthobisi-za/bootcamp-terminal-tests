@@ -1,5 +1,5 @@
 "use strict"
-var greet = require("../my modules/greet");
+var greet = require("../my_modules/greet");
 var assert = require("assert");
 describe("Greet", ()=>{
     it("The function should be able to greet Jane", ()=>{

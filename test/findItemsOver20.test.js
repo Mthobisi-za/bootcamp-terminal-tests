@@ -1,5 +1,5 @@
 "use strict"
-var findItemsOver20 =  require("../my modules/findItemsOver20");
+var findItemsOver20 =  require("../my_modules/findItemsOver20");
 var assert = require("assert")
 
 var itemList = [

@@ -1,5 +1,5 @@
 "use strict"
-var regCheck = require("../my modules/regCheck");
+var regCheck = require("../my_modules/regCheck");
 var assert = require("assert")
 describe('regCheck', () => {
     it("Check for Gp registrations and return true if passed arguments are from GP",()=>{
